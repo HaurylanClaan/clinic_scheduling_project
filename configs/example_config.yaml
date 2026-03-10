@@ -1,0 +1,5 @@
+clinic:
+  name: "Clínica do Bairro"
+  timezone: "America/Sao_Paulo"
+notifications:
+  send_email: false
